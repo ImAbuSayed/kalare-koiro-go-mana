@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কালারে কইরো গো মানা, সে যেন আসে না আর
+> তার চোখের এক ইশারায়, ভাঙে মনের সব পাহাড়
+> জ্বলে বুকে এমন আগুন, নেভাতে পারে না কেউ
+> আমার এই শান্ত নদীতে, জাগালো সে প্রেমের ঢেউ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
