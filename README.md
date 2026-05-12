@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kalare-koiro-go-mana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Kalare Koiro Go Mana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalare-koiro-go-mana/) |
+| **Get License** | [Commercial Licensing for Kalare Koiro Go Mana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalare-koiro-go-mana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `485b603671b5c8be670d95f4d6af01af79e9dd488c935f601578fd76a36ab421` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

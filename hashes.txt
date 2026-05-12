@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalare Koiro Go Mana
+
+This log tracks the cryptographic history and versioning for the song **Kalare Koiro Go Mana** (kalare-koiro-go-mana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T11:15:33.758770 | `v1` | `485b603671b5c8be670d95f4d6af01af79e9dd488c935f601578fd76a36ab421` | `9f26f8a08c29d8deed8168a64c8f7957da259b9b819d199ca5898bac42321201` | `2026-05-12_kalare-koiro-go-mana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
